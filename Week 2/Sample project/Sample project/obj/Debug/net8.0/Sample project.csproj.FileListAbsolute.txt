@@ -1,0 +1,32 @@
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\appsettings.json
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\Sample project.exe
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\Sample project.deps.json
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\Sample project.runtimeconfig.json
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\Sample project.dll
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\Sample project.pdb
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.csproj.AssemblyReference.cache
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.AssemblyInfoInputs.cache
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.AssemblyInfo.cs
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.csproj.CoreCompileInputs.cache
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\staticwebassets\msbuild.Sample project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\staticwebassets\msbuild.build.Sample project.props
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sample project.props
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sample project.props
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\scopedcss\bundle\Sample project.styles.css
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample p.2F4DF8EC.Up2Date
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.dll
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\refint\Sample project.dll
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.pdb
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\Sample project.genruntimeconfig.cache
+C:\Users\Rohit kumar\Documents\Programing class\Back end\Sample project\Sample project\obj\Debug\net8.0\ref\Sample project.dll

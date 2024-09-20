@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\Sample project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{461E4BED-AD0C-4D05-96BA-0FFD892B2E83}|Sample project\\Sample project.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\sample project\\sample project\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461E4BED-AD0C-4D05-96BA-0FFD892B2E83}|Sample project\\Sample project.csproj|solutionrelative:sample project\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\Sample project\\Sample project\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Sample project\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\Sample project\\Sample project\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Sample project\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:59:41.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
