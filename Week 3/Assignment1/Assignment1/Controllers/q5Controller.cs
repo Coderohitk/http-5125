@@ -22,6 +22,7 @@ namespace Assignment1.Controllers
      /// curl -H"Content-Type: application/json"-d "-200" http://localhost:xx/api/q5/secret
      /// </example>
         [HttpPost(template: "secret")]
+        [Consumes("application/json")]
         public string ScretWord([FromBody] int secret)
         {
             return $"Shh.. the secret is {secret}";

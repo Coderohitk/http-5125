@@ -33,6 +33,7 @@ namespace Assignment1.Controllers
         /// 
         /// </example>
         [HttpPost(template:"squashfellows")]
+        [Consumes("application/x-www-form-urlencoded")]
         public string SquashFellowsCheckout([FromForm] int Small, [FromForm] int Large)
         {
 
