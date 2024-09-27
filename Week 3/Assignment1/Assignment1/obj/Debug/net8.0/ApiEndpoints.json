@@ -210,6 +210,37 @@
     ]
   },
   {
+    "ContainingType": "Assignment1.Controllers.q8Controller",
+    "Method": "SquashFellowsCheckout",
+    "RelativePath": "api/q8/squashfellows",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Small",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Large",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Assignment1.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -7,7 +7,15 @@ namespace Assignment1.Controllers
     [ApiController]
     public class q1Controller : ControllerBase
     {
-        [HttpGet(template:"welcome")]
+        /// <summary>
+        /// This method returns a welcome message with small intro
+        /// </summary>
+        /// <returns>A welcome message string</returns>
+        /// <example>
+        /// GET : http://localhost:xx/api/q1/welcome 
+        /// GET : http://localhost:xx/api/q1/intro
+        /// </example>
+        [HttpGet(template: "welcome")]
         public string Welcome()
         {
             return "Welcome to 5125";
