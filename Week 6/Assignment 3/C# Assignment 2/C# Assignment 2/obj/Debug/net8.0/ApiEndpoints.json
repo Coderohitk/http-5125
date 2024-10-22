@@ -64,7 +64,7 @@
   {
     "ContainingType": "C__Assignment_2.Controllers.J2Controller",
     "Method": "TotalSpicines",
-    "RelativePath": "api/J2/ChiliPeppers\u0026Ingredients={ingridents}",
+    "RelativePath": "api/J2/ChiliPepper={ingridents}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -89,9 +89,9 @@
   },
   {
     "ContainingType": "C__Assignment_2.Controllers.J2Controller",
-    "Method": "Tdays",
+    "Method": "Firstdays",
     "RelativePath": "api/J2/Epidemiology",
-    "HttpMethod": "GET",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -126,7 +126,7 @@
   {
     "ContainingType": "C__Assignment_2.Controllers.J3Controller",
     "Method": "InstructionFollowed",
-    "RelativePath": "api/J3/Special Instrucions",
+    "RelativePath": "api/J3/SpecialInstrucions",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

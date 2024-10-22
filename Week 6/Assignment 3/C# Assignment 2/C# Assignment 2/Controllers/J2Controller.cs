@@ -13,14 +13,14 @@ namespace C__Assignment_2.Controllers
         /// <param name="ingridents">Contains all the spicesSpices names</param>
         /// <returns>returns the total spicness calculating with there corresponding SHU value</returns>
         /// <example>
-        /// GET api/J2/ChiliPeppers&Ingredients=Poblano,Cayenne,Thai,Poblano->
+        /// GET api/J2/ChiliPepper=Poblano,Cayenne,Thai,Poblano->
         /// 118000
-        /// GET api/J2/ChiliPeppers&Ingredients=Habanero,Habanero,Habanero,Habanero,Habanero->
+        /// GET api/J2/ChiliPepper=Habanero,Habanero,Habanero,Habanero,Habanero->
         /// 625000
-        /// GET api/J2/ChiliPeppers&Ingredients=Poblano,Mirasol,Serrano,Cayenne,Thai,Habanero,Serrano->
+        /// GET api/J2/ChiliPepper=Poblano,Mirasol,Serrano,Cayenne,Thai,Habanero,Serrano->
         /// 278500
         /// </example>
-        [HttpGet(template: "ChiliPeppers&Ingredients={ingridents}")]
+        [HttpGet(template: "ChiliPepper={ingridents}")]
         public int TotalSpicines(string ingridents)
         {
             Dictionary<string, int> peppers = new()
@@ -51,13 +51,18 @@ namespace C__Assignment_2.Controllers
         /// <param name="R">the rate of new infected people caused by already infected people</param>
         /// <returns>The first day on which the total number of infected individuals exceeds P.</returns>
         /// <example>
-        /// GET api/J2/Epidemiology?P=750&N=1&R=5->
-        /// 4
-        /// GET api/J2/Epidemiology?P=10&N=2&R=1->
-        /// 5
+        /// POST: api/J1/Epidemiology
+        /// Headers: Content-Type: application/x-www-form-urlencoded
+        /// Post data: P=750&N=1&R=5
+        /// ->4
+        /// POST: api/J1/Epidemiology
+        /// Headers: Content-Type: application/x-www-form-urlencoded
+        /// Post data: P=10&N=2&R=1
+        /// ->5
         /// </example>
-        [HttpGet(template: "Epidemiology")]
-        public int Tdays(int P, int N, int R)
+        [HttpPost(template: "Epidemiology")]
+        [Consumes("application/x-www-form-urlencoded")]
+        public int Firstdays([FromForm]int P,[FromForm] int N,[FromForm] int R)
         {
             int totalInfected = N; 
             int dailyInfected = N; 

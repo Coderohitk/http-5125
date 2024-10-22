@@ -12,7 +12,7 @@ namespace C__Assignment_2.Controllers
         /// </summary>
         /// <param name="instructions">A list of strings,each contaning 5 digit strings </param>
         /// <example>
-        /// POST: api/J3/Secret Instructions
+        /// POST: api/J3/SecretInstructions
         /// Headers: Content-Type: application/x-www-form-urlencoded
         /// Post data: instructions=57234,00907,34100,99999
         /// ->right 234
@@ -20,7 +20,7 @@ namespace C__Assignment_2.Controllers
         /// ->left 100
         /// </example>
         ///  /// <returns>A string contaning all decoded instruction</returns>
-        [HttpPost(template: "Special Instrucions")]
+        [HttpPost(template: "SpecialInstrucions")]
         [Consumes("application/x-www-form-urlencoded")]
         public string InstructionFollowed([FromForm] string instructions)
         {
