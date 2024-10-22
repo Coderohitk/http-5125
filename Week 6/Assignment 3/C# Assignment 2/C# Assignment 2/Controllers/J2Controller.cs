@@ -54,7 +54,7 @@ namespace C__Assignment_2.Controllers
         /// GET api/J2/Epidemiology?P=750&N=1&R=5->
         /// 4
         /// GET api/J2/Epidemiology?P=10&N=2&R=1->
-        /// 
+        /// 5
         /// </example>
         [HttpGet(template: "Epidemiology")]
         public int Tdays(int P, int N, int R)

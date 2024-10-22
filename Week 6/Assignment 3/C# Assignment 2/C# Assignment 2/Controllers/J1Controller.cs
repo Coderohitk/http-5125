@@ -17,15 +17,15 @@ namespace C__Assignment_2.Controllers
         ///  POST: api/J1/Delivedroid
         /// Headers: Content-Type: application/x-www-form-urlencoded
         /// Post data: Collisions=2&Deliveries=5
-        /// 730
+        /// ->730
         /// POST: api/J1/Delivedroid
         /// Headers: Content-Type: application/x-www-form-urlencoded
         /// Post data: Collisions=10&Deliveries=0
-        /// -100
+        /// ->-100
         /// POST: api/J1/Delivedroid
         /// Headers: Content-Type: application/x-www-form-urlencoded
         /// Post data: Collisions=3&Deliveries=2
-        /// 70
+        /// ->70
         /// </example>
         [HttpPost(template: "Delivedroid")]
         [Consumes("application/x-www-form-urlencoded")]
@@ -48,11 +48,11 @@ namespace C__Assignment_2.Controllers
         /// POST: api/J1/CupcakesParty
         /// Headers: Content-Type: application/x-www-form-urlencoded
         /// Post data: large=2&small=5
-        /// 3
+        /// ->3
         /// POST: api/J1/CupcakesParty
         /// Headers: Content-Type: application/x-www-form-urlencoded
         /// Post data: large=2&small=4
-        /// 0
+        /// ->0
         /// </example>
         [HttpPost(template: "CupcakesParty")]
         [Consumes("application/x-www-form-urlencoded")]
