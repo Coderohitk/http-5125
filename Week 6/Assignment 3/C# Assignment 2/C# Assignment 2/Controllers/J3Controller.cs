@@ -8,11 +8,18 @@ namespace C__Assignment_2.Controllers
     public class J3Controller : ControllerBase
     {
         /// <summary>
-        /// 
+        /// 2021 J3 problem in which decodes secret instructions and returns the direction and number of steps based on input
         /// </summary>
-        /// <param name="instructions"></param>
-        /// <example></example>
-        /// <returns></returns>
+        /// <param name="instructions">A list of strings,each contaning 5 digit strings </param>
+        /// <example>
+        /// POST: api/J3/Secret Instructions
+        /// Headers: Content-Type: application/x-www-form-urlencoded
+        /// Post data: instructions=57234,00907,34100,99999
+        /// ->right 234
+        /// ->right 907
+        /// ->left 100
+        /// </example>
+        ///  /// <returns>A string contaning all decoded instruction</returns>
         [HttpPost(template: "Special Instrucions")]
         [Consumes("application/x-www-form-urlencoded")]
         public string InstructionFollowed([FromForm] string instructions)
