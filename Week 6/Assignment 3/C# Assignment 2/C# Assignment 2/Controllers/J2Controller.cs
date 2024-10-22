@@ -67,8 +67,6 @@ namespace C__Assignment_2.Controllers
             int totalInfected = N; 
             int dailyInfected = N; 
             int day = 0; 
-
-           
             while (totalInfected <= P)
             {
                 day++; 
