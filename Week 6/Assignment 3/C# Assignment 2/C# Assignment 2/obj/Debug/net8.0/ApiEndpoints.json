@@ -126,7 +126,7 @@
   {
     "ContainingType": "C__Assignment_2.Controllers.J3Controller",
     "Method": "InstructionFollowed",
-    "RelativePath": "api/J3/SpecialInstrucions",
+    "RelativePath": "api/J3/Special Instrucions",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
