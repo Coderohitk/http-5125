@@ -1,15 +1,13 @@
 ﻿using Cumulative_1.Models;
 using Cumulative_1.Controllers;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace Cumulative_1.Controllers
 {
-
     public class TeacherPageController : Controller
     {
-        // currently relying on the API to retrieve author information
-        // this is a simplified example. In practice, both the AuthorAPI and AuthorPage controllers
-        // should rely on a unified "Service", with an explicit interface
+        // Currently relying on the API to retrieve author information
         private readonly TeacherAPIController _api;
 
         public TeacherPageController(TeacherAPIController api)
@@ -17,19 +15,38 @@ namespace Cumulative_1.Controllers
             _api = api;
         }
 
-        //GET : AuthorPage/List
-        public IActionResult List()
+        // GET: TeacherPage/List
+        // Add parameters for StartDate and EndDate to search by hire date range
+        public IActionResult List(DateTime? StartDate, DateTime? EndDate)
         {
-            List<Teacher> Teachers = _api.ListTeachers();
+            // Pass the Hire Date range to the API
+            List<Teacher> Teachers = _api.ListTeachers(StartDate, EndDate);
             return View(Teachers);
         }
 
-        //GET : AuthorPage/Show/{id}
+        // GET: TeacherPage/Show/{id}
+        //public IActionResult Show(int id)
+        //{
+        //    Teacher SelectedTeacher = _api.FindTeacher(id);
+        //    return View(SelectedTeacher);
+        //}
         public IActionResult Show(int id)
         {
+            // Retrieve the teacher data using the TeacherAPIController
             Teacher SelectedTeacher = _api.FindTeacher(id);
-            return View(SelectedTeacher);
-        }
 
+            // Retrieve the list of course names taught by this teacher
+            List<string> TeacherCourses = _api.GetCoursesByTeacher(id);
+
+            // Create the ViewModel and pass the Teacher and their Courses
+            TeacherCoursesViewModel viewModel = new TeacherCoursesViewModel
+            {
+                Teacher = SelectedTeacher,
+                Courses = TeacherCourses
+            };
+
+            // Return the view with the ViewModel
+            return View(viewModel);
+        }
     }
 }

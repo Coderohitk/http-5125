@@ -13,9 +13,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Database
-builder.Services.AddScoped<Cumulative1dbContext>();
+builder.Services.AddScoped<SchooldbContext>();
 // API for now, but should be added as separate Author Service
 builder.Services.AddScoped<TeacherAPIController>();
+builder.Services.AddScoped<StudentAPIController>();
 
 var app = builder.Build();
 

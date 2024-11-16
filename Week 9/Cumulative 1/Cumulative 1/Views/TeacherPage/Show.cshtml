@@ -1,5 +1,68 @@
-﻿@model Cumulative_1.Models.Teacher
-<h1>Teacher Name:-@Model.TeacherFName @Model.TeacherLName</h1>
-<p>Hiring Date:-@Model.TeacherHireDate.ToString("yyyy-M-d")</p>
-<p>Employer Number:-@Model.TeacherEmpNu</p>
-<p>Salary:-@Model.TeacherSalary</p>
+﻿@model Cumulative_1.Models.TeacherCoursesViewModel
+
+<style>
+    table {
+        width: 80%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+    }
+
+    th, td {
+        padding: 12px;
+        border: 1px solid #ddd;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #f1f1f1;
+    }
+</style>
+
+<h2>Teacher Details and Courses</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Employee Number</th>
+            <th>Hire Date</th>
+            <th>Salary</th>
+            <th>Course Taught</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Courses != null && Model.Courses.Any())
+        {
+            @foreach (var course in Model.Courses)
+            {
+                <tr>
+                    <td>@Model.Teacher.TeacherFName @Model.Teacher.TeacherLName</td>
+                    <td>@Model.Teacher.TeacherEmpNu</td>
+                    <td>@Model.Teacher.TeacherHireDate.ToString("yyyy-MM-dd")</td>
+                    <td>$@Model.Teacher.TeacherSalary</td>
+                    <td>@course</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td>@Model.Teacher.TeacherFName @Model.Teacher.TeacherLName</td>
+                <td>@Model.Teacher.TeacherEmpNu</td>
+                <td>@Model.Teacher.TeacherHireDate.ToString("yyyy-MM-dd")</td>
+                <td>$@Model.Teacher.TeacherSalary</td>
+                <td>No courses found</td>
+            </tr>
+        }
+    </tbody>
+</table>

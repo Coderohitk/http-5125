@@ -2,7 +2,7 @@
 
 namespace Cumulative_1.Models
 {
-    public class Cumulative1dbContext
+    public class SchooldbContext
     {
         //These are readonly "secret" properties. 
         //Only the BlogDbContext class can use them.

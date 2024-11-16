@@ -17,5 +17,7 @@ namespace Cumulative_1.Models
 
         public string? TeacherEmpNu { get; set; }
 
+        public List<string> CourseNames { get; set; } = new List<string>();
+
     }
 }
