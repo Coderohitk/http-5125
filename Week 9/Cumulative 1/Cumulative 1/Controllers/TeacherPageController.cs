@@ -32,21 +32,44 @@ namespace Cumulative_1.Controllers
         //}
         public IActionResult Show(int id)
         {
+            // Validate the ID input (e.g., ID should be a positive integer)
+            if (id <= 0)
+            {
+                ViewBag.ErrorMessage = "Invalid Teacher ID. Please provide a valid ID.";
+                return View("Error"); // Render the Error view
+            }
+
             // Retrieve the teacher data using the TeacherAPIController
-            Teacher SelectedTeacher = _api.FindTeacher(id);
+            var selectedTeacher = _api.FindTeacher(id);
+
+            // Check if the teacher exists
+            if (selectedTeacher == null)
+            {
+                ViewBag.ErrorMessage = "The specified teacher does not exist. Please check the Teacher ID.";
+                return View("Error"); // Render the Error view
+            }
 
             // Retrieve the list of course names taught by this teacher
-            List<string> TeacherCourses = _api.GetCoursesByTeacher(id);
+            var teacherCourses = _api.GetCoursesByTeacher(id);
+
+            // Check if the courses exist (optional, in case GetCoursesByTeacher fails)
+            if (teacherCourses == null || teacherCourses.Count == 0)
+            {
+                ViewBag.ErrorMessage = $"No courses found for the teacher with ID {id}.";
+                return View("Error"); // Render the Error view
+            }
 
             // Create the ViewModel and pass the Teacher and their Courses
-            TeacherCoursesViewModel viewModel = new TeacherCoursesViewModel
+            var viewModel = new TeacherCoursesViewModel
             {
-                Teacher = SelectedTeacher,
-                Courses = TeacherCourses
+                Teacher = selectedTeacher,
+                Courses = teacherCourses
             };
 
             // Return the view with the ViewModel
             return View(viewModel);
         }
+
+
     }
 }
