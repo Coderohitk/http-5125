@@ -10,11 +10,14 @@ namespace Cumulative_1.Controllers
     public class CourseAPIController : ControllerBase
     {
         private readonly SchooldbContext _context;
-        // dependency injection of database context
         public CourseAPIController(SchooldbContext context)
         {
             _context = context;
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         [Route(template: "listCourse")]
         public List<Course> ListCourse()
@@ -56,32 +59,30 @@ namespace Cumulative_1.Controllers
             }
             return Courses;
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
             [HttpGet]
             [Route(template: "FindCourse/{id}")]
             public Course FindCourse(int id)
             {
 
-                //Empty Author
                 Course SelectedCourse = new Course();
 
-                // 'using' will close the connection after the code executes
-                using (MySqlConnection Connection = _context.AccessDatabase())
+            using (MySqlConnection Connection = _context.AccessDatabase())
+            {
+                Connection.Open();
+                MySqlCommand Command = Connection.CreateCommand();
+
+                Command.CommandText = "Select * from courses WHERE courseid = @id";
+                Command.Parameters.AddWithValue("@id", id);
+
+                using (MySqlDataReader ResultSet = Command.ExecuteReader())
                 {
-                    Connection.Open();
-                    //Establish a new command (query) for our database
-                    MySqlCommand Command = Connection.CreateCommand();
-
-                    // @id is replaced with a 'sanitized' id
-                    Command.CommandText = "Select * from courses WHERE courseid = @id";
-                    Command.Parameters.AddWithValue("@id", id);
-
-                    // Gather Result Set of Query into a variable
-                    using (MySqlDataReader ResultSet = Command.ExecuteReader())
+                    while (ResultSet.Read())
                     {
-                        //Loop Through Each Row the Result Set
-                        while (ResultSet.Read())
-                        {
-                        //Access Column information by the DB column name as an index
                         int Couseid = Convert.ToInt32(ResultSet["courseid"]);
                         int teacherId = Convert.ToInt32(ResultSet["teacherid"]);
                         string CourseCode = ResultSet["coursecode"].ToString();
@@ -95,14 +96,9 @@ namespace Cumulative_1.Controllers
                         SelectedCourse.coursename = CourseName;
                         SelectedCourse.startdate = StartDate;
                         SelectedCourse.finishdate = FinishDate;
-                            //SelectedTeacher.CourseName = CourseName;
-
-                        }
                     }
                 }
-
-
-                //Return the final list of author names
+            }
                 return SelectedCourse;
             }
 

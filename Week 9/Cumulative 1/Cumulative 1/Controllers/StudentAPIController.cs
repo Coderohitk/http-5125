@@ -6,16 +6,20 @@ using MySql.Data.MySqlClient;
 
 namespace Cumulative_1.Controllers
 {
+    
     [Route("api/Student")]
     [ApiController]
     public class StudentAPIController : ControllerBase
     {
         private readonly SchooldbContext _context;
-        // dependency injection of database context
         public StudentAPIController(SchooldbContext context)
         {
             _context = context;
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         [Route(template: "listStudents")]
         public List<Student> ListStudent()
@@ -54,32 +58,29 @@ namespace Cumulative_1.Controllers
             }
             return Students;
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet]
         [Route(template: "FindStudent/{id}")]
         public Student FindStudent(int id)
         {
 
-            //Empty Author
             Student SelectedStudents = new Student();
 
-            // 'using' will close the connection after the code executes
             using (MySqlConnection Connection = _context.AccessDatabase())
             {
                 Connection.Open();
-                //Establish a new command (query) for our database
                 MySqlCommand Command = Connection.CreateCommand();
-
-                // @id is replaced with a 'sanitized' id
                 Command.CommandText = "Select * from students WHERE studentid = @id";
                 Command.Parameters.AddWithValue("@id", id);
 
-                // Gather Result Set of Query into a variable
                 using (MySqlDataReader ResultSet = Command.ExecuteReader())
                 {
-                    //Loop Through Each Row the Result Set
                     while (ResultSet.Read())
-                    {
-                        //Access Column information by the DB column name as an index
+                    { 
                         int StudentId = Convert.ToInt32(ResultSet["studentid"]);
                         string FirstName = ResultSet["studentfname"].ToString();
                         string LastName = ResultSet["studentlname"].ToString();
@@ -92,12 +93,12 @@ namespace Cumulative_1.Controllers
                         SelectedStudents.StudentLName = LastName;
                         SelectedStudents.EnrollDate = EnrolDate;
                         SelectedStudents.StudentNumber = StudentNumber;
-                                           }
+                                          
+                    }
                 }
             }
 
 
-            //Return the final list of author names
             return SelectedStudents;
         }
 

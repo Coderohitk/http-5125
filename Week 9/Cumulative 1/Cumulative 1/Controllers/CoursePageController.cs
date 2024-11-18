@@ -12,7 +12,6 @@ namespace Cumulative_1.Controllers
             _api = api;
         }
 
-        //GET : AuthorPage/List
         public IActionResult List()
         {
             List<Course> Courses = _api.ListCourse();
