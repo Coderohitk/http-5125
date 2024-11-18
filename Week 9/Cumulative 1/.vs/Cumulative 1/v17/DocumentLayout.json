@@ -3,64 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\studentpage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\studentpage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\controllers\\teacherapicontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\controllers\\teacherapicontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\studentpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\studentpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\studentpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\studentpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\models\\teachercoursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\models\\teachercoursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\coursepage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\coursepage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\controllers\\studentpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,8 +19,84 @@
       "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\controllers\\courseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\controllers\\courseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\controllers\\coursepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\controllers\\coursepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\studentpage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\studentpage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\coursepage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\coursepage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\controllers\\teacherapicontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\controllers\\teacherapicontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\coursepage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\coursepage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\coursepage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\coursepage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\studentpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\studentpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\views\\teacherpage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\views\\teacherpage\\show.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\models\\teachercoursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\models\\teachercoursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|solutionrelative:cumulative 1\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24B45595-CA21-4764-90D1-F3F15DFC9743}|Cumulative 1\\Cumulative 1.csproj|c:\\users\\rohit kumar\\documents\\programing class\\back end\\http-5125\\week 9\\cumulative 1\\cumulative 1\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,100 +158,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Error.cshtml",
-              "RelativeDocumentMoniker": "Cumulative 1\\Views\\TeacherPage\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Error.cshtml",
-              "RelativeToolTip": "Cumulative 1\\Views\\TeacherPage\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T14:34:47.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Show.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Show.cshtml.cs",
-              "RelativeDocumentMoniker": "Cumulative 1\\Views\\TeacherPage\\Show.cshtml.cs",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Show.cshtml.cs",
-              "RelativeToolTip": "Cumulative 1\\Views\\TeacherPage\\Show.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CourseAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\CourseAPIController.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Controllers\\CourseAPIController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\CourseAPIController.cs",
+              "RelativeToolTip": "Cumulative 1\\Controllers\\CourseAPIController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwF4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T03:09:53.183Z",
+              "WhenOpened": "2024-11-17T00:34:26.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "CoursePageController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\CoursePageController.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Controllers\\CoursePageController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\CoursePageController.cs",
+              "RelativeToolTip": "Cumulative 1\\Controllers\\CoursePageController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:41:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Show.cshtml",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Show.cshtml",
               "RelativeDocumentMoniker": "Cumulative 1\\Views\\TeacherPage\\Show.cshtml",
               "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Show.cshtml",
               "RelativeToolTip": "Cumulative 1\\Views\\TeacherPage\\Show.cshtml",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-15T02:11:48.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\List.cshtml",
-              "RelativeDocumentMoniker": "Cumulative 1\\Views\\TeacherPage\\List.cshtml",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\List.cshtml",
-              "RelativeToolTip": "Cumulative 1\\Views\\TeacherPage\\List.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T23:51:27.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Cumulative 1\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Course.cs",
-              "RelativeToolTip": "Cumulative 1\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T03:42:55.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "Cumulative 1\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Teacher.cs",
-              "RelativeToolTip": "Cumulative 1\\Models\\Teacher.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA+wBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T23:31:03.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\StudentPage\\List.cshtml",
-              "RelativeDocumentMoniker": "Cumulative 1\\Views\\StudentPage\\List.cshtml",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\StudentPage\\List.cshtml",
-              "RelativeToolTip": "Cumulative 1\\Views\\StudentPage\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T01:27:14.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\CoursePage\\Show.cshtml",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\CoursePage\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\CoursePage\\Show.cshtml",
+              "RelativeToolTip": "Cumulative 1\\Views\\CoursePage\\Show.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T00:57:40.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\StudentPage\\Show.cshtml",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\StudentPage\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\StudentPage\\Show.cshtml",
+              "RelativeToolTip": "Cumulative 1\\Views\\StudentPage\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T01:27:29.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentPageController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\StudentPageController.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Controllers\\StudentPageController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\StudentPageController.cs",
+              "RelativeToolTip": "Cumulative 1\\Controllers\\StudentPageController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T01:26:52.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Cumulative 1\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T01:07:53.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Show.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\StudentPage\\Show.cshtml.cs",
               "RelativeDocumentMoniker": "Cumulative 1\\Views\\StudentPage\\Show.cshtml.cs",
@@ -240,20 +266,172 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "TeacherAPIControllerr.cs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\TeacherAPIControllerr.cs",
               "RelativeDocumentMoniker": "Cumulative 1\\Controllers\\TeacherAPIControllerr.cs",
               "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\TeacherAPIControllerr.cs",
               "RelativeToolTip": "Cumulative 1\\Controllers\\TeacherAPIControllerr.cs",
-              "ViewState": "AgIAAN0AAAAAAAAAAAAkwPIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAYwNYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T00:23:38.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "Show.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\CoursePage\\Show.cshtml.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\CoursePage\\Show.cshtml.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\CoursePage\\Show.cshtml.cs",
+              "RelativeToolTip": "Cumulative 1\\Views\\CoursePage\\Show.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T01:12:20.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\CoursePage\\List.cshtml",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\CoursePage\\List.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\CoursePage\\List.cshtml",
+              "RelativeToolTip": "Cumulative 1\\Views\\CoursePage\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T00:43:18.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Program.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Program.cs",
+              "RelativeToolTip": "Cumulative 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:39:44.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\StudentPage\\List.cshtml",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\StudentPage\\List.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\StudentPage\\List.cshtml",
+              "RelativeToolTip": "Cumulative 1\\Views\\StudentPage\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T01:27:14.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Course.cs",
+              "RelativeToolTip": "Cumulative 1\\Models\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:42:55.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\CoursePage\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\CoursePage\\List.cshtml.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\CoursePage\\List.cshtml.cs",
+              "RelativeToolTip": "Cumulative 1\\Views\\CoursePage\\List.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:51:47.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cumulative 1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T23:03:17.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Teacher.cs",
+              "RelativeToolTip": "Cumulative 1\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA+wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T23:31:03.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\List.cshtml",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\TeacherPage\\List.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\List.cshtml",
+              "RelativeToolTip": "Cumulative 1\\Views\\TeacherPage\\List.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T23:51:27.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Show.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Show.cshtml.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\TeacherPage\\Show.cshtml.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Show.cshtml.cs",
+              "RelativeToolTip": "Cumulative 1\\Views\\TeacherPage\\Show.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:09:53.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Cumulative 1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Student.cs",
+              "RelativeToolTip": "Cumulative 1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:42:40.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Error.cshtml",
+              "RelativeDocumentMoniker": "Cumulative 1\\Views\\TeacherPage\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\Error.cshtml",
+              "RelativeToolTip": "Cumulative 1\\Views\\TeacherPage\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T14:34:47.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "List.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\TeacherPage\\List.cshtml.cs",
               "RelativeDocumentMoniker": "Cumulative 1\\Views\\TeacherPage\\List.cshtml.cs",
@@ -261,37 +439,11 @@
               "RelativeToolTip": "Cumulative 1\\Views\\TeacherPage\\List.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T05:23:54.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T05:23:54.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Show.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\StudentPage\\Show.cshtml",
-              "RelativeDocumentMoniker": "Cumulative 1\\Views\\StudentPage\\Show.cshtml",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\StudentPage\\Show.cshtml",
-              "RelativeToolTip": "Cumulative 1\\Views\\StudentPage\\Show.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T01:27:29.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StudentPageController.cs",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\StudentPageController.cs",
-              "RelativeDocumentMoniker": "Cumulative 1\\Controllers\\StudentPageController.cs",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\StudentPageController.cs",
-              "RelativeToolTip": "Cumulative 1\\Controllers\\StudentPageController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T01:26:52.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "TeacherCoursesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\TeacherCoursesViewModel.cs",
               "RelativeDocumentMoniker": "Cumulative 1\\Models\\TeacherCoursesViewModel.cs",
@@ -303,19 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Cumulative 1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Cumulative 1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T23:03:17.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Program.fs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Program.fs",
               "RelativeDocumentMoniker": "Cumulative 1\\Program.fs",
@@ -327,43 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Program.cs",
-              "RelativeDocumentMoniker": "Cumulative 1\\Program.cs",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Program.cs",
-              "RelativeToolTip": "Cumulative 1\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:39:44.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StudentAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\StudentAPIController.cs",
-              "RelativeDocumentMoniker": "Cumulative 1\\Controllers\\StudentAPIController.cs",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\StudentAPIController.cs",
-              "RelativeToolTip": "Cumulative 1\\Controllers\\StudentAPIController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T01:07:53.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Cumulative 1\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\Student.cs",
-              "RelativeToolTip": "Cumulative 1\\Models\\Student.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T03:42:40.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "SchooldbContext.cs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\SchooldbContext.cs",
               "RelativeDocumentMoniker": "Cumulative 1\\Models\\SchooldbContext.cs",
@@ -375,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Cumulative 1\\Views\\Home\\Index.cshtml",
@@ -387,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Cumulative 1\\Models\\ErrorViewModel.cs",
@@ -399,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "Cumulative 1",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Cumulative 1.csproj",
               "RelativeDocumentMoniker": "Cumulative 1\\Cumulative 1.csproj",
@@ -410,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Cumulative 1\\Properties\\launchSettings.json",
@@ -422,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Cumulative 1\\Controllers\\HomeController.cs",
@@ -434,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Cumulative 1\\Views\\_ViewImports.cshtml",
@@ -446,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Cumulative 1\\Views\\_ViewStart.cshtml",
@@ -458,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "HomeController.fs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Controllers\\HomeController.fs",
               "RelativeDocumentMoniker": "Cumulative 1\\Controllers\\HomeController.fs",
@@ -470,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Cumulative 1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -482,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Cumulative 1\\Views\\Shared\\Error.cshtml",
@@ -494,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "Cumulative 1.csproj",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Cumulative 1.csproj",
               "RelativeDocumentMoniker": "Cumulative 1\\Cumulative 1.csproj",
@@ -506,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "ErrorViewModel.fs",
               "DocumentMoniker": "C:\\Users\\Rohit kumar\\Documents\\Programing class\\Back end\\http-5125\\Week 9\\Cumulative 1\\Cumulative 1\\Models\\ErrorViewModel.fs",
               "RelativeDocumentMoniker": "Cumulative 1\\Models\\ErrorViewModel.fs",

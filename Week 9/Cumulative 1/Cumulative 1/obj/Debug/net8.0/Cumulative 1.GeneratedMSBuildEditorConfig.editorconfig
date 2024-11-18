@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Rohit kumar\Documents\Programing class\Back end\http-5125\Week 9\Cumulative 1\Cumulative 1
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Rohit kumar/Documents/Programing class/Back end/http-5125/Week 9/Cumulative 1/Cumulative 1/Views/CoursePage/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlUGFnZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rohit kumar/Documents/Programing class/Back end/http-5125/Week 9/Cumulative 1/Cumulative 1/Views/CoursePage/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlUGFnZVxTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Rohit kumar/Documents/Programing class/Back end/http-5125/Week 9/Cumulative 1/Cumulative 1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

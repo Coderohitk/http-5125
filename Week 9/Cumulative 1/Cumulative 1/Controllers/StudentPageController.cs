@@ -25,11 +25,11 @@ namespace Cumulative_1.Controllers
         }
 
         //GET : AuthorPage/Show/{id}
-        //public IActionResult Show(int id)
-        //{
-        //    Teacher SelectedTeacher = _api.FindTeacher(id);
-        //    return View(SelectedTeacher);
-        //}
+        public IActionResult Show(int id)
+        {
+            Student SelectedStudent = _api.FindStudent(id);
+            return View(SelectedStudent);
+        }
 
     }
 }

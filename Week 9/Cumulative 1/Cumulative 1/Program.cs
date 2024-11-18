@@ -17,6 +17,7 @@ builder.Services.AddScoped<SchooldbContext>();
 // API for now, but should be added as separate Author Service
 builder.Services.AddScoped<TeacherAPIController>();
 builder.Services.AddScoped<StudentAPIController>();
+builder.Services.AddScoped<CourseAPIController>();
 
 var app = builder.Build();
 
