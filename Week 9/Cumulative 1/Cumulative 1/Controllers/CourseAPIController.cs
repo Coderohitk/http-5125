@@ -15,9 +15,18 @@ namespace Cumulative_1.Controllers
             _context = context;
         }
         /// <summary>
-        /// 
+        /// Retrieves a list of all courses from the database.
         /// </summary>
-        /// <returns></returns>
+        /// <returns>
+        /// A list of all courses, including their course ID, teacher ID, course code, course name, start date, and finish date.
+        /// </returns>
+        /// <remarks>
+        /// This method connects to the database and retrieves all courses from the `courses` table.
+        /// It returns a collection of course objects that include the course details such as ID, teacher, and course dates.
+        /// </remarks>
+        /// <example>
+        /// GET api/Course/listCourse ->[{"courseId":1,"coursecode":"http5101","teacherid":1,"startdate":"2018-09-04T00:00:00","finishdate":"2018-12-14T00:00:00","coursename":"Web Application Development"},...]
+        /// </example>
         [HttpGet]
         [Route(template: "listCourse")]
         public List<Course> ListCourse()
@@ -60,11 +69,20 @@ namespace Cumulative_1.Controllers
             return Courses;
         }
         /// <summary>
-        /// 
+        /// Retrieves details of a specific course by its course ID.
         /// </summary>
-        /// <param name="id"></param>
-        /// <returns></returns>
-            [HttpGet]
+        /// <param name="id">The ID of the course to retrieve.</param>
+        /// <returns>
+        /// The details of the specified course, including its course ID, teacher ID, course code, course name, start date, and finish date.
+        /// </returns>
+        /// <remarks>
+        /// This method connects to the database and retrieves the details of a specific course from the `courses` table
+        /// based on the provided course ID. If the course is found, the details will be returned.
+        /// </remarks>
+        /// <example>
+        /// GET api/Course/FindCourse/1 -> {"courseId":1,"coursecode":"http5101","teacherid":1,"startdate":"2018-09-04T00:00:00","finishdate":"2018-12-14T00:00:00","coursename":"Web Application Development"}
+        /// </example>
+        [HttpGet]
             [Route(template: "FindCourse/{id}")]
             public Course FindCourse(int id)
             {

@@ -5,8 +5,8 @@ namespace Cumulative_1.Models
     public class SchooldbContext
     {
        
-        private static string User { get { return "Rohit"; } }
-        private static string Password { get { return "Rohit@1825"; } }
+        private static string User { get { return "root"; } }
+        private static string Password { get { return ""; } }
         private static string Database { get { return "school"; } }
         private static string Server { get { return "localhost"; } }
         private static string Port { get { return "3306"; } }

@@ -16,11 +16,22 @@ namespace Cumulative_1.Controllers
             _context = context;
         }
         /// <summary>
-        /// 
+        /// Retrieves a list of teachers, including their courses, with an optional filter by hire date range.
         /// </summary>
-        /// <param name="StartDate"></param>
-        /// <param name="EndDate"></param>
-        /// <returns></returns>
+        /// <param name="StartDate">The start date of the hire date range (optional).</param>
+        /// <param name="EndDate">The end date of the hire date range (optional).</param>
+        /// <returns>
+        /// A list of teachers, each containing their details such as ID, first name, last name, hire date, salary, employee number, and associated course names.
+        /// </returns>
+        /// <remarks>
+        /// This method connects to the database, retrieves teacher and course information, and optionally filters the teachers by hire date range.
+        /// If no date range is provided, all teachers will be returned along with their courses.
+        /// </remarks>
+        /// <example>
+        /// GET api/Teacher/ListTeachers -> [{"teacherId": 1,"teacherFName": "Alexander","teacherLName": "Bennett","teacherHireDate": "2016-08-05T00:00:00","teacherSalary": "55.30","teacherEmpNu": "T378","courseNames": ["Web Application Development"]},....]
+        /// GET api/Teacher/ListTeachers?StartDate=2016-01-01&EndDate=2018-01-01 -> [{"teacherId":1,"teacherFName":"Alexander","teacherLName":"Bennett","teacherHireDate":"2016-08-05T00:00:00","teacherSalary":"55.30","teacherEmpNu":"T378","courseNames":["Web Application Development"]},{"teacherId":6,"teacherFName":"Thomas","teacherLName":"Hawkins","teacherHireDate":"2016-08-10T00:00:00","teacherSalary":"54.45","teacherEmpNu":"T393","courseNames":["Career Connections"]}]
+        /// </example>
+
 
         [HttpGet]
         [Route(template: "ListTeachers")]
@@ -88,11 +99,21 @@ namespace Cumulative_1.Controllers
 
 
         /// <summary>
-        /// 
+        /// Retrieves a single teacher's details, including the courses they teach, by their teacher ID.
         /// </summary>
-        /// <param name="id"></param>
-        /// <returns></returns>
-    [HttpGet]
+        /// <param name="id">The ID of the teacher to retrieve.</param>
+        /// <returns>
+        /// The details of the teacher, including their first name, last name, employee number, hire date, salary, and a list of the courses they teach.
+        /// </returns>
+        /// <remarks>
+        /// This method connects to the database and retrieves the teacher's information and the courses they teach.
+        /// If the teacher exists, their details and course names will be returned.
+        /// </remarks>
+        /// <example>
+        /// GET api/Teacher/FindTeacher/1 -> {"teacherId":1,"teacherFName":"Alexander","teacherLName":"Bennett","teacherHireDate":"2016-08-05T00:00:00","teacherSalary":"55.30","teacherEmpNu":"T378","courseNames":["Web Application Development"]}
+        /// </example>
+
+        [HttpGet]
         [Route(template: "FindTeacher/{id}")]
         public Teacher FindTeacher(int id)
         {
@@ -118,27 +139,37 @@ namespace Cumulative_1.Controllers
                         DateTime TeacherHireDate = Convert.ToDateTime(ResultSet["hiredate"]);
                         string TeacherSalary = ResultSet["salary"].ToString();
                         string CourseName = ResultSet["coursename"].ToString();
+                        if (SelectedTeacher.TeacherId == 0)
+                        {
 
-                        SelectedTeacher.TeacherId = Id;
-                        SelectedTeacher.TeacherFName = FirstName;
-                        SelectedTeacher.TeacherLName = LastName;
-                        SelectedTeacher.TeacherSalary = TeacherSalary;
-                        SelectedTeacher.TeacherHireDate = TeacherHireDate;
-                        SelectedTeacher.TeacherEmpNu = TeacherEmpNu;
-
+                            SelectedTeacher.TeacherFName = FirstName;
+                            SelectedTeacher.TeacherLName = LastName;
+                            SelectedTeacher.TeacherSalary = TeacherSalary;
+                            SelectedTeacher.TeacherHireDate = TeacherHireDate;
+                            SelectedTeacher.TeacherEmpNu = TeacherEmpNu;
+                            SelectedTeacher.CourseNames = new List<string>();
+                        }
+                        SelectedTeacher.CourseNames.Add(CourseName);
                     }
                 }
             }
-
-
-            
             return SelectedTeacher;
         }
         /// <summary>
-        /// 
+        /// Retrieves a list of courses taught by a specific teacher, identified by their teacher ID.
         /// </summary>
-        /// <param name="id"></param>
-        /// <returns></returns>
+        /// <param name="id">The ID of the teacher whose courses are to be retrieved.</param>
+        /// <returns>
+        /// A list of course names taught by the specified teacher.
+        /// </returns>
+        /// <remarks>
+        /// This method connects to the database and retrieves the list of courses assigned to the teacher with the given ID.
+        /// If no courses are found, an empty list will be returned.
+        /// </remarks>
+        /// <example>
+        /// GET api/Teacher/GetCoursesByTeacher/1 -> ["Web Application Development"]
+        /// </example>
+
         [HttpGet]
         [Route("GetCoursesByTeacher/{id}")]
         public List<string> GetCoursesByTeacher(int id)
